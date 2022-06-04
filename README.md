@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shraddhayash
 - 👀 I’m interested in HTML CSS projects
-- 🌱 I’m currently learning bootstrap JS
+- 🌱 I’m currently learning react JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shraddha.bachkar20@gmail.com
 
